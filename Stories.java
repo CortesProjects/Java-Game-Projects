@@ -33,7 +33,7 @@ public class Stories {
                         "splatters on the floor, walls, and ceiling. Until you met an enemy that is 3x stronger than the The\r\n" + //
                         "ghouls of activities you fought.\r"};
         for (int i = 0; i < backstory.length; i++) {
-            System.out.print(backstory[i]);
+            System.out.println(backstory[i]);
         }
         
     }
