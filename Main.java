@@ -16,6 +16,8 @@ public class Main {
         int[] money = {0, 0, 0};
         int[] exp = {0, 0, 0};
 
+        System.out.println("kaon ko tae");
+
         switch (hero) {
             case 1:
                 obj.setCharacter(character[0], health[1], mana[0], money[0], exp[0]);
