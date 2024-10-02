@@ -18,6 +18,8 @@ public class Main {
 
         System.out.println("kaon ko tae");
 
+        System.out.println("another testing part 2!");
+
         switch (hero) {
             case 1:
                 obj.setCharacter(character[0], health[1], mana[0], money[0], exp[0]);
