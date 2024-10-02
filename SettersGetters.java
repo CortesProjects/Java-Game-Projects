@@ -4,6 +4,7 @@ public class SettersGetters {
     private int playerMana;
     private int playerMoney;
     private int playerExp;
+    private int test;
 
     public void setCharacter (String playerName, int playerHealth, int playerMana, int playerMoney, int playerExp) {
         this.playerName = playerName;
