@@ -20,7 +20,7 @@ public class Main {
 
         System.out.println("another testing part 2!");
 
-        System.out.println("part 3!");
+        System.out.println("final part 3!");
 
         switch (hero) {
             case 1:
